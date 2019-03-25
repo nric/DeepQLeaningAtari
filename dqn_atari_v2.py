@@ -6,6 +6,12 @@ However, it is built to run in VS-Code or Jupyter Notebook and rewritten for Pyt
 TF.Keras nomenclature.
 Hyper parameters are optimized for learning pong in accorance with move37 course: 
 https://github.com/colinskow/move37/tree/master/dqn
+Requires:
+Python 3.7
+Tensorflow >= 1.12
+gym
+gym['atari']
+pillow
 """
 
 # %%
